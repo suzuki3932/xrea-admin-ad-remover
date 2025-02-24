@@ -1,9 +1,14 @@
 <?php
 /*
 Plugin Name: XREA Admin AD Remover
-Description: 管理画面から広告を削除します。※フロントエンドからは削除しません
+Description: Delete the ad from the admin page. *Do not delete from the front end.
 Version: 1.0
-Author: 鈴木知美
+Requires PHP: 7.4
+Requires at least: 5.0
+Author: Suzuki Tomomi
+Author URI: https://youmutec394.f5.si
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 */
 
 function remove() {
